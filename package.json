@@ -1,0 +1,19 @@
+{
+  "name": "medigiri_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aijou",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "graphql-request": "^1.8.2",
+    "https": "^1.0.0",
+    "jimp": "^0.5.6",
+    "superagent": "^4.0.0-beta.5",
+    "to-markdown": "^3.1.1"
+  }
+}
